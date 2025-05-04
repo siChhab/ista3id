@@ -2,12 +2,22 @@
   {
     "id": "1",
     "title": "Les bases de la constitution tunisienne",
-    "questionsCount": 20,
+    "questionsCount": 3,
     "isNew": true,
     "questions": [
       {
         "question": "Quel est le rôle de la constitution ?",
         "choices": ["Protéger les droits", "Créer des lois", "Organiser les partis", "Aucune"],
+        "answerIndex": 0
+      },
+      {
+        "question": "Quand la nouvelle constitution tunisienne a-t-elle été adoptée ?",
+        "choices": ["2010", "2014", "2021", "2002"],
+        "answerIndex": 1
+      },
+      {
+        "question": "La constitution garantit-elle la liberté d’expression ?",
+        "choices": ["Oui", "Non", "Seulement pour les journalistes", "Seulement sur Internet"],
         "answerIndex": 0
       }
     ]
@@ -15,8 +25,42 @@
   {
     "id": "2",
     "title": "Quiz sur l’histoire de la Tunisie",
-    "questionsCount": 15,
+    "questionsCount": 3,
     "isNew": false,
-    "questions": []
+    "questions": [
+      {
+        "question": "Qui a fondé Carthage ?",
+        "choices": ["Les Romains", "Les Grecs", "Les Phéniciens", "Les Arabes"],
+        "answerIndex": 2
+      },
+      {
+        "question": "Quand la Tunisie a-t-elle obtenu son indépendance ?",
+        "choices": ["1956", "1962", "1945", "1975"],
+        "answerIndex": 0
+      },
+      {
+        "question": "Quel président a succédé à Habib Bourguiba ?",
+        "choices": ["Moncef Marzouki", "Zine El Abidine Ben Ali", "Kais Saied", "Beji Caid Essebsi"],
+        "answerIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Citoyenneté et droits",
+    "questionsCount": 2,
+    "isNew": true,
+    "questions": [
+      {
+        "question": "Quel droit est protégé par la constitution tunisienne ?",
+        "choices": ["Le droit à la télé gratuite", "Le droit à un avocat", "Le droit de pirater", "Le droit de fumer dans les lieux publics"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Un citoyen peut-il participer à la vie politique ?",
+        "choices": ["Non", "Oui, s’il est ministre", "Oui, par le vote", "Seulement s’il est majeur et médecin"],
+        "answerIndex": 2
+      }
+    ]
   }
 ]
