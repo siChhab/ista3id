@@ -1,111 +1,70 @@
 [
   {
     "id": "1",
-    "title": "Les bases de la constitution tunisienne",
+    "title": "Quiz sur la Police",
     "questionsCount": 3,
     "isNew": true,
     "questions": [
       {
-        "question": "Quel est le rôle de la constitution ?",
-        "choices": ["Protéger les droits", "Créer des lois", "Organiser les partis", "Aucune"],
+        "question": "Quel est le rôle principal de la police ?",
+        "choices": ["Maintenir l'ordre public", "Gérer les prisons", "Recueillir des impôts", "S'occuper des incendies"],
         "answerIndex": 0
       },
       {
-        "question": "Quand la nouvelle constitution tunisienne a-t-elle été adoptée ?",
-        "choices": ["2010", "2014", "2021", "2002"],
-        "answerIndex": 1
+        "question": "La police est-elle responsable de la sécurité routière ?",
+        "choices": ["Oui", "Non", "Seulement les gendarmes", "Cela dépend des régions"],
+        "answerIndex": 0
       },
       {
-        "question": "La constitution garantit-elle la liberté d’expression ?",
-        "choices": ["Oui", "Non", "Seulement pour les journalistes", "Seulement sur Internet"],
-        "answerIndex": 0
+        "question": "Quel est le principal corps de la police en Tunisie ?",
+        "choices": ["La Garde nationale", "Les policiers municipaux", "La police nationale", "La police judiciaire"],
+        "answerIndex": 2
       }
     ]
   },
   {
     "id": "2",
-    "title": "Quiz sur l’histoire de la Tunisie",
+    "title": "Quiz sur la Garde nationale",
     "questionsCount": 3,
-    "isNew": false,
+    "isNew": true,
     "questions": [
       {
-        "question": "Qui a fondé Carthage ?",
-        "choices": ["Les Romains", "Les Grecs", "Les Phéniciens", "Les Arabes"],
-        "answerIndex": 2
+        "question": "Quel est le rôle principal de la Garde nationale ?",
+        "choices": ["Sécuriser les frontières", "Lutter contre le terrorisme", "Assurer la sécurité publique", "Contrôler la circulation"],
+        "answerIndex": 1
       },
       {
-        "question": "Quand la Tunisie a-t-elle obtenu son indépendance ?",
-        "choices": ["1956", "1962", "1945", "1975"],
+        "question": "La Garde nationale fait-elle partie du ministère de l'Intérieur ?",
+        "choices": ["Oui", "Non", "Elle dépend du ministère de la Défense", "Cela dépend des situations"],
         "answerIndex": 0
       },
       {
-        "question": "Quel président a succédé à Habib Bourguiba ?",
-        "choices": ["Moncef Marzouki", "Zine El Abidine Ben Ali", "Kais Saied", "Beji Caid Essebsi"],
-        "answerIndex": 1
+        "question": "La Garde nationale intervient-elle dans les zones rurales ?",
+        "choices": ["Oui", "Non", "Seulement en ville", "Seulement pour les infractions graves"],
+        "answerIndex": 0
       }
     ]
   },
   {
     "id": "3",
-    "title": "Citoyenneté et droits",
-    "questionsCount": 2,
-    "isNew": true,
-    "questions": [
-      {
-        "question": "Quel droit est protégé par la constitution tunisienne ?",
-        "choices": ["Le droit à la télé gratuite", "Le droit à un avocat", "Le droit de pirater", "Le droit de fumer dans les lieux publics"],
-        "answerIndex": 1
-      },
-      {
-        "question": "Un citoyen peut-il participer à la vie politique ?",
-        "choices": ["Non", "Oui, s’il est ministre", "Oui, par le vote", "Seulement s’il est majeur et médecin"],
-        "answerIndex": 2
-      }
-    ]
-  },
-  {
-    "id": "4",
-    "title": "Les droits des femmes en Tunisie",
+    "title": "Quiz historique sur la Tunisie",
     "questionsCount": 3,
     "isNew": true,
     "questions": [
       {
-        "question": "Quel est l'objectif de la loi sur l'égalité des sexes en Tunisie ?",
-        "choices": ["Garantir l'égalité salariale", "Interdire le mariage précoce", "Éliminer la violence domestique", "Permettre aux femmes de conduire"],
-        "answerIndex": 2
-      },
-      {
-        "question": "Quand la loi sur l'égalité des sexes a-t-elle été adoptée en Tunisie ?",
-        "choices": ["2011", "2015", "2017", "2020"],
-        "answerIndex": 1
-      },
-      {
-        "question": "Qui a été la première femme ministre en Tunisie ?",
-        "choices": ["Amal Al-Sid", "Meriem Fadhel", "Rym Kefi", "Maya Jribi"],
-        "answerIndex": 3
-      }
-    ]
-  },
-  {
-    "id": "5",
-    "title": "L'impact de la révolution tunisienne",
-    "questionsCount": 3,
-    "isNew": true,
-    "questions": [
-      {
-        "question": "Quand a eu lieu la révolution tunisienne ?",
-        "choices": ["2011", "2008", "2015", "2013"],
+        "question": "Qui a fondé la ville de Tunis ?",
+        "choices": ["Les Phéniciens", "Les Romains", "Les Français", "Les Arabes"],
         "answerIndex": 0
       },
       {
-        "question": "Quel a été l'impact principal de la révolution tunisienne ?",
-        "choices": ["Chute du régime de Ben Ali", "Ouverture des frontières", "Suppression des partis politiques", "Démocratisation de l'économie"],
+        "question": "Quand la Tunisie a-t-elle obtenu son indépendance ?",
+        "choices": ["1956", "1960", "1945", "1975"],
         "answerIndex": 0
       },
       {
-        "question": "Qui a pris la tête du gouvernement après la révolution ?",
-        "choices": ["Moncef Marzouki", "Rached Ghannouchi", "Beji Caid Essebsi", "Kais Saied"],
-        "answerIndex": 2
+        "question": "Qui a dirigé la Tunisie après l'indépendance ?",
+        "choices": ["Habib Bourguiba", "Zine El Abidine Ben Ali", "Kais Saied", "Moncef Marzouki"],
+        "answerIndex": 0
       }
     ]
   }
