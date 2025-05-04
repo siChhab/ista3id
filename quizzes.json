@@ -62,5 +62,51 @@
         "answerIndex": 2
       }
     ]
+  },
+  {
+    "id": "4",
+    "title": "Les droits des femmes en Tunisie",
+    "questionsCount": 3,
+    "isNew": true,
+    "questions": [
+      {
+        "question": "Quel est l'objectif de la loi sur l'égalité des sexes en Tunisie ?",
+        "choices": ["Garantir l'égalité salariale", "Interdire le mariage précoce", "Éliminer la violence domestique", "Permettre aux femmes de conduire"],
+        "answerIndex": 2
+      },
+      {
+        "question": "Quand la loi sur l'égalité des sexes a-t-elle été adoptée en Tunisie ?",
+        "choices": ["2011", "2015", "2017", "2020"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Qui a été la première femme ministre en Tunisie ?",
+        "choices": ["Amal Al-Sid", "Meriem Fadhel", "Rym Kefi", "Maya Jribi"],
+        "answerIndex": 3
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "title": "L'impact de la révolution tunisienne",
+    "questionsCount": 3,
+    "isNew": true,
+    "questions": [
+      {
+        "question": "Quand a eu lieu la révolution tunisienne ?",
+        "choices": ["2011", "2008", "2015", "2013"],
+        "answerIndex": 0
+      },
+      {
+        "question": "Quel a été l'impact principal de la révolution tunisienne ?",
+        "choices": ["Chute du régime de Ben Ali", "Ouverture des frontières", "Suppression des partis politiques", "Démocratisation de l'économie"],
+        "answerIndex": 0
+      },
+      {
+        "question": "Qui a pris la tête du gouvernement après la révolution ?",
+        "choices": ["Moncef Marzouki", "Rached Ghannouchi", "Beji Caid Essebsi", "Kais Saied"],
+        "answerIndex": 2
+      }
+    ]
   }
 ]
